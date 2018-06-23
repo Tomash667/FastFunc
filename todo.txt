@@ -1,0 +1,4 @@
+TODO:
++ readme, changes
++ verify capturing lambda storage for assignment operator
++ unit tests
